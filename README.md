@@ -17,4 +17,4 @@
 
 |Type|Issue|Solo|
 |:--:|--|:--:|
-|M|[`enlistInRollover()` stores wrong index for receiver](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/104)||
+|H|[`enlistInRollover()` stores wrong index for receiver](https://github.com/sherlock-audit/2023-03-Y2K-judging/issues/104)||
