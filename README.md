@@ -28,7 +28,12 @@ TBD
 
 ## [Contest 225 (03/23)](https://code4rena.com/contests/2023-03-contest-225-contest) 🐺
 
-TBD
+Private contest
+
+|Type|Issue|Solo|
+|:--:|--|:--:|
+|H|H-1||
+|M|M-1||
 
 ## [Caviar (04/23)](https://code4rena.com/contests/2023-04-caviar-private-pools) 🐺
 
