@@ -37,7 +37,11 @@ Private contest
 
 ## [Caviar (04/23)](https://code4rena.com/contests/2023-04-caviar-private-pools) 🐺
 
-TBD
+|Type|Issue|Solo|
+|:--:|--|:--:|
+|M|[Incorrect calculation of flash loan fee](https://github.com/code-423n4/2023-04-caviar-findings/issues/477)||
+|M|[`change` fails for tokens with less than 4 decimals](https://github.com/code-423n4/2023-04-caviar-findings/issues/473)||
+|M|[Royalties recipient can make `buy` and `sell` revert](https://github.com/code-423n4/2023-04-caviar-findings/issues/470)||
 
 ## [Teller (04/23)](https://app.sherlock.xyz/audits/contests/62) 🕵
 
