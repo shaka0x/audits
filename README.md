@@ -45,7 +45,12 @@ Private contest
 
 ## [Teller (04/23)](https://app.sherlock.xyz/audits/contests/62) 🕵
 
-TBD
+|Type|Issue|Solo|
+|:--:|--|:--:|
+|H|[`CollateralManger.sol:setCollateralEscrowBeacon` can be called by anyone](https://github.com/sherlock-audit/2023-03-teller-judging/issues/236)||
+|H|[Committed collateral can be updated by any user at any time](https://github.com/sherlock-audit/2023-03-teller-judging/issues/233)||
+|M|[Admin can update `LenderManager` address in `TellerV2`](https://github.com/sherlock-audit/2023-03-teller-judging/issues/240)||
+|M|[Fee-on-transfer token collateral will lock deposits in escrow](https://github.com/sherlock-audit/2023-03-teller-judging/issues/235)||
 
 ## [Footium (05/23)](https://app.sherlock.xyz/audits/contests/71) 🕵
 
