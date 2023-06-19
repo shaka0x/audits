@@ -60,3 +60,9 @@ Private contest
 |M|[Return value of ERC20 transfer not checked](https://github.com/sherlock-audit/2023-04-footium-judging/issues/212)||
 |M|[`maxGenerationId` + 1 players can be minted per cohort](https://github.com/sherlock-audit/2023-04-footium-judging/issues/219)||
 
+## [DODO (05/23)](https://app.sherlock.xyz/audits/contests/78) 🕵
+
+|Type|Issue|Solo|
+|:--:|--|:--:|
+|H|[Flash loan callback can be used to steal tokens](https://github.com/sherlock-audit/2023-05-dodo-judging/issues/76)||
+
