@@ -66,3 +66,19 @@ Private contest
 |:--:|--|:--:|
 |H|[Flash loan callback can be used to steal tokens](https://github.com/sherlock-audit/2023-05-dodo-judging/issues/76)||
 
+## [USSD (05/23)](https://app.sherlock.xyz/audits/contests/82) 🕵
+
+|Type|Issue|Solo|
+|:--:|--|:--:|
+|H|[The calculations of DAI price in `StableOracleDAI.sol:getPriceUSD()` are incorrect](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/66)||
+|H|[Spot price of USSD/DAI pool can be manipulated](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/175)||
+|H|[No slippage protection for swaps](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/73)||
+|H|[Anyone can mint and burn tokens for/from the USSD contract](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/68)||
+|H|[Wrong address for `ethOracle` in `StableOracleDAI.sol`](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/64)||
+|H|[Wrong address for `DAIEthOracle` in `StableOracleDAI.sol:DAIEthOracle` and `StableOracleWBGL.sol:staticOracleUniV3`](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/65)||
+|H|[Wrong address for `BTC/USD` Chainlink aggregator contract](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/63)||
+|M|[Removing collateral token changes order in array](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/72)||
+|M|[Chainlink price feed data could be stale](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/62)||
+|M|[Lack of Chainlink price feed data validation](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/71)||
+
+
