@@ -26,6 +26,14 @@
 
 TBD
 
+|Type|Issue|Solo|
+|:--:|--|:--:|
+|H|H-1||
+|H|H-2||
+|H|H-3||
+|M|M-1||
+|M|M-2||
+
 ## [Contest 225 (03/23)](https://code4rena.com/contests/2023-03-contest-225-contest) 🐺
 
 Private contest
