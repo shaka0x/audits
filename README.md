@@ -24,15 +24,13 @@
 
 ## [Asymmetry (03/23)](https://code4rena.com/contests/2023-03-asymmetry-contest) 🐺
 
-TBD
-
 |Type|Issue|
 |:--:|--|
-|H|H-1|
-|H|H-2|
-|H|H-3|
-|M|M-1|
-|M|M-2|
+|H|[First staker can get ETH from other stakers](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/523)|
+|H|[Error in calculations of total deposits of rETH](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/909)|
+|H|[It is assumed that the price of ETH-stETH is 1](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/519)|
+|M|[It is not checked if Rocket Pool deposits are enabled](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/520)|
+|M|[Rocket Pool withdrawals can be timelocked](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/522)|
 
 ## [Contest 225 (03/23)](https://code4rena.com/contests/2023-03-contest-225-contest) 🐺
 
