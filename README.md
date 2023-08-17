@@ -3,7 +3,7 @@
 |🐺|Code4rena|
 |🕵|Sherlock|
 
-## [PoolTogether (06/23)](https://code4rena.com/contests/2023-07-pooltogether) 🐺
+## [PoolTogether (07/23)](https://code4rena.com/contests/2023-07-pooltogether) 🐺
 
 TBD
 
