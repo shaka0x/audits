@@ -16,10 +16,17 @@ TBD
 
 ## [Symmetrical (06/23)](https://audits.sherlock.xyz/contests/85) 🕵
 
-TBD
-
 |Type|Issue|
 |:--:|--|
+|H|[`LibMuon` verifications hash collisions](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/180)|
+|H|[`depositAndAllocateForPartyB` allocates the wrong amount](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/183)|
+|H|[Party A can be liquidated with outdated price data](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/188)|
+|H|[Users can DOS liquidation process by increasing their nonce](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/186)|
+|H|[No check for expired `priceSig` in `setSymbolsPrice`](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/179)|
+|M (SOLO)|[`partyA` can inflate the uPnL with no cost](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/181)|
+|M (SOLO)|[Wrong calculation of solvency after request to close and after close position](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/184)|
+|M|[Position can fall below minimum acceptable quote value after partial closing](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/185)|
+|M|[The liquidation process can get stuck if the liquidators do not submit the symbol prices in the given time](https://github.com/sherlock-audit/2023-06-symmetrical-judging/issues/182)|
 
 ## [Iron Bank (05/23)](https://audits.sherlock.xyz/contests/84) 🕵
 
