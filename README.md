@@ -2,6 +2,7 @@
 |-|-|
 |🐺|Code4rena|
 |🕵|Sherlock|
+|🦅|CodeHaws|
 
 ## [PoolTogether (07/23)](https://code4rena.com/contests/2023-07-pooltogether) 🐺
 
