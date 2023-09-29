@@ -6,14 +6,12 @@
 
 ## [PoolTogether (07/23)](https://code4rena.com/contests/2023-07-pooltogether) 🐺
 
-TBD
-
 |Type|Issue|
 |:--:|--|
-|H||
-|M (SOLO)||
-|M||
-|M||
+|H|[Anyone can claim `Vault` yield fees](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/88)|
+|M (SOLO)|[Transfer of `Vault` tokens can cause accounting errors in other contracts](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/91)|
+|M|[Griefing attack on `Vault.claimPrizes`](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/90|
+|M|[`LiquidationPair` can mint less tokens than expected](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/89)|
 
 ## [Symmetrical (06/23)](https://audits.sherlock.xyz/contests/85) 🕵
 
