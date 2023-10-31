@@ -4,13 +4,34 @@
 |🕵|Sherlock|
 |🦅|CodeHaws|
 
+<!--
+## [DittoETH (09/23)](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc) 🦅
+
+|Type|Issue|
+|:--:|--|
+|H|[]()|
+|H|[]()|
+|M|[]()|
+|L|[]()|
+|L|[]()|
+-->
+
+## [Tokemak (07/23)](https://audits.sherlock.xyz/contests/101) 🕵
+
+|Type|Issue|
+|:--:|--|
+|H|[`AbstractRewarder:queueNewRewards()` might try to pull too many reward tokens from caller](https://github.com/sherlock-audit/2023-06-tokemak-judging/issues/451)|
+|H|[It is not possible to liquidate rewards](https://github.com/sherlock-audit/2023-06-tokemak-judging/issues/456)|
+|M|[Users will not be able to withdraw assets on oracle price decrease](https://github.com/sherlock-audit/2023-06-tokemak-judging/issues/455)|
+|M|[`redeem` function can return less assets than expected](https://github.com/sherlock-audit/2023-06-tokemak-judging/issues/452)|
+
 ## [PoolTogether (07/23)](https://code4rena.com/contests/2023-07-pooltogether) 🐺
 
 |Type|Issue|
 |:--:|--|
 |H|[Anyone can claim `Vault` yield fees](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/88)|
 |M (SOLO)|[Transfer of `Vault` tokens can cause accounting errors in other contracts](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/91)|
-|M|[Griefing attack on `Vault.claimPrizes`](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/90|
+|M|[Griefing attack on `Vault.claimPrizes`](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/90)|
 |M|[`LiquidationPair` can mint less tokens than expected](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/89)|
 
 ## [Symmetrical (06/23)](https://audits.sherlock.xyz/contests/85) 🕵
