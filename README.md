@@ -4,17 +4,18 @@
 |🕵|Sherlock|
 |🦅|CodeHaws|
 
-<!--
 ## [DittoETH (09/23)](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc) 🦅
 
 |Type|Issue|
 |:--:|--|
-|H|[]()|
-|H|[]()|
-|M|[]()|
-|L|[]()|
-|L|[]()|
--->
+|H|[Collateral is not returned to the creator of an order when it is cancelled with `cancelOrderFarFromOracle`](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/454)|
+|H|[All orders can be cancelled once `Asset.orderId` reaches 65,000](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/452)|
+|H|[Short flagger can be overwritten while it is still active](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/450)|
+|H|[Cancelled order can be cancelled again and break the linked list](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/449)|
+|M|[Lack of price deviation check for assets different from `USD`](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/465)|
+|M|[The liquidation process is open for one hour less than expected](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/455)|
+|L|[DoS in primary margin call](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/456)|
+|L|[Changes in `dittoShorterRate` affect retroactively to accrued Ditto yield shares](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/446)|
 
 ## [Tokemak (07/23)](https://audits.sherlock.xyz/contests/101) 🕵
 
