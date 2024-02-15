@@ -4,7 +4,7 @@
 |🕵|Sherlock|
 |🦅|CodeHaws|
 
-## [Badger eBTC (10/23)]([https://code4rena.com/contests/2023-07-pooltogether](https://code4rena.com/audits/2023-10-badger-ebtc-audit-certora-formal-verification-competition)) 🐺
+## [Badger eBTC (10/23)](https://code4rena.com/audits/2023-10-badger-ebtc-audit-certora-formal-verification-competition) 🐺
 
 |Type|Issue|
 |:--:|--|
