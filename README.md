@@ -4,6 +4,13 @@
 |🕵|Sherlock|
 |🦅|CodeHaws|
 
+## [Badger eBTC (10/23)]([https://code4rena.com/contests/2023-07-pooltogether](https://code4rena.com/audits/2023-10-badger-ebtc-audit-certora-formal-verification-competition)) 🐺
+
+|Type|Issue|
+|:--:|--|
+|M|[`fetchPrice` can return different prices in the same transaction](https://github.com/code-423n4/2023-10-badger-findings/issues/310)|
+|L|[Misleading comments for protocol integrations](https://github.com/code-423n4/2023-10-badger-findings/blob/main/data/shaka-Q.md#l-01-misleading-comments-for-protocol-integrations)|
+
 ## [DittoETH (09/23)](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc) 🦅
 
 |Type|Issue|
