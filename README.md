@@ -16,10 +16,6 @@
 |L|[Incorrect `require` statement in `VerbsToken.sol:getArPieceById`](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/blob/main/data/shaka-Q.md#l-02-incorrect-require-statement-in-verbstokensolgetarpiecebyid)|
 |L|[Incorrect calculation in `ERC20TokenEmitter.sol:getTokenQuoteForPayment`](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/blob/main/data/shaka-Q.md#l-03-incorrect-calculation-in-erc20tokenemittersolgettokenquoteforpayment)|
 
-|Type|Issue|
-|:--:|--|
-|M|[`fetchPrice` can return different prices in the same transaction](https://github.com/code-423n4/2023-10-badger-findings/issues/310)|
-
 ## [Badger eBTC (10/23)](https://code4rena.com/audits/2023-10-badger-ebtc-audit-certora-formal-verification-competition) 🐺
 
 |Type|Issue|
