@@ -3,6 +3,21 @@
 |🐺|Code4rena|
 |🕵|Sherlock|
 |🦅|CodeHaws|
+|🪐|Cantina|
+
+<!---
+## [ZeroLend (01/24)]([https://audits.sherlock.xyz/contests/138](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407)) 🪐
+
+|Type|Issue|
+|:--:|--|
+-->
+
+<!---
+## [Ubiquity (01/24)](https://audits.sherlock.xyz/contests/138) 🕵
+
+|Type|Issue|
+|:--:|--|
+-->
 
 ## [Revolution (12/23)](https://code4rena.com/audits/2023-12-revolution-protocol) 🐺
 
