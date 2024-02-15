@@ -4,6 +4,22 @@
 |🕵|Sherlock|
 |🦅|CodeHaws|
 
+## [Revolution (12/23)](https://code4rena.com/audits/2023-12-revolution-protocol) 🐺
+
+|Type|Issue|
+|:--:|--|
+|H|[Ether will get stuck in ERC20TokenEmitter](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/651)|
+|M|[`VerbsToken.tokenURI` does not comply with ERC-721 specification ](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/660)|
+|M|[Auction settlement can be DOS's](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/657)|
+|M|[`CultureIndex.sol:_verifyVoteSignature` does not comply with EIP-712](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/658)|
+|L|[Edge case bug in `SignedWadMath.wadMul`](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/blob/main/data/shaka-Q.md#l-01-edge-case-bug-in-signedwadmathwadmul)
+|L|[Incorrect `require` statement in `VerbsToken.sol:getArPieceById`](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/blob/main/data/shaka-Q.md#l-02-incorrect-require-statement-in-verbstokensolgetarpiecebyid)|
+|L|[Incorrect calculation in `ERC20TokenEmitter.sol:getTokenQuoteForPayment`](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/blob/main/data/shaka-Q.md#l-03-incorrect-calculation-in-erc20tokenemittersolgettokenquoteforpayment)|
+
+|Type|Issue|
+|:--:|--|
+|M|[`fetchPrice` can return different prices in the same transaction](https://github.com/code-423n4/2023-10-badger-findings/issues/310)|
+
 ## [Badger eBTC (10/23)](https://code4rena.com/audits/2023-10-badger-ebtc-audit-certora-formal-verification-competition) 🐺
 
 |Type|Issue|
