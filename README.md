@@ -12,12 +12,11 @@
 |:--:|--|
 -->
 
-<!---
 ## [Ubiquity (01/24)](https://audits.sherlock.xyz/contests/138) 🕵
 
 |Type|Issue|
 |:--:|--|
--->
+|M|[The depegging of the collateral token from the USD could result in the Ubiquity Dollar token being undercollateralized](https://github.com/sherlock-audit/2023-12-ubiquity-judging/issues/19)|
 
 ## [Revolution (12/23)](https://code4rena.com/audits/2023-12-revolution-protocol) 🐺
 
