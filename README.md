@@ -12,6 +12,16 @@
 |:--:|--|
 -->
 
+## [Flat Money (01/24)](https://audits.sherlock.xyz/contests/132) 🕵
+
+|Type|Issue|
+|:--:|--|
+|H|[Trade fees can be avoided in limit orders](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues/212)|
+|H|[`LeverageModule` NFT can be unlocked when there is a pending order](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues/211)|
+|H|[Accounting error for `marginDepositedTotal` in `settleFundingFees()`](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues/214)|
+|M (SOLO)|[Oracle can return different prices in same transaction](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues/216)|
+|M|[DoS for functions with invariant modifiers](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues/222)|
+
 ## [Ubiquity (01/24)](https://audits.sherlock.xyz/contests/138) 🕵
 
 |Type|Issue|
