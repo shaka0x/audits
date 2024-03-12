@@ -1,3 +1,7 @@
+# 2024
+- [Flat Money](#flat-money-0124) 🕵
+- [Ubiquity](flat-money-01-24) 🕵
+
 |||
 |-|-|
 |🐺|Code4rena|
