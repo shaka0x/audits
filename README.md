@@ -1,6 +1,8 @@
 # 2024
 <!---- [Rio Network](#rio-network-0224-) 🕵 -->
+<!---- [Opal](#opal-0224-) 🪐 -->
 - [AI Arena](#ai-arena-0224-) 🐺
+- <!---- [ZeroLend](#zerolend-0124-) 🪐 -->
 - [Flat Money](#flat-money-0124-) 🕵
 - [Ubiquity](#ubiquity-0124-) 🕵
 
@@ -42,6 +44,14 @@
 |M|[Rebalance DoS due to errors in allocation calculations](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/318)|
 -->
 
+<!---
+## [Opal (02/24)](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790) 🪐
+
+|Type|Issue|
+|:--:|--|
+|H|[Incorrect USD price returned for price feeds that are not normalized to 8 decimals](https://cantina.xyz/code/28425672-ce54-4c66-b188-c4d5650d6790/findings/f832074d-7942-4bcd-95ad-62ba5a59524a)|
+-->
+
 ## [AI Arena (02/24)](https://code4rena.com/audits/2024-02-ai-arena) 🐺
 
 |Type|Issue|
@@ -65,7 +75,10 @@
 
 |Type|Issue|
 |:--:|--|
-|H|[]()|
+|H|[`ZLRewardsController:claim()` will revert due to lack of token approval](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings/7bf440cb-56c3-4273-8d94-1995541eaef6)|
+|H|[`ZLRewardsController` is not compatible with ZeroLend ATokens](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings/3959ec82-64f3-40d4-a15c-68928cde537e)|
+|H|[DOS for `StakingEmissions:distrubute()`](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings/1357ddec-d5cf-4a01-98fa-b9340c4cfb0d)|
+|L|[`ZeroLocker` signals support for ERC721Metadata incorrectly](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings/f7578b4a-47b4-4258-bfa5-a0d1d88508a5)|
 -->
 
 ## [Flat Money (01/24)](https://audits.sherlock.xyz/contests/132) 🕵
