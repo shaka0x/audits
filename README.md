@@ -1,8 +1,7 @@
 # 2024
-<!---- - [Rio Network](#rio-network-0224-) 🕵 -->
-<!---- - [Opal](#opal-0224-) 🪐 -->
-- [AI Arena](#ai-arena-0224-) 🐺
-<!---- - [ZeroLend](#zerolend-0124-) 🪐 -->
+<!-- - [Rio Network](#rio-network-0224-) 🕵 -->
+<!-- - [Opal](#opal-0224-) 🪐 -->
+- [AI Arena](#ai-arena-0224-) 🐺 <!-- - [ZeroLend](#zerolend-0124-) 🪐 -->
 - [Flat Money](#flat-money-0124-) 🕵
 - [Ubiquity](#ubiquity-0124-) 🕵
 
@@ -33,7 +32,7 @@
 |🦅|CodeHaws|
 |🪐|Cantina|
 
-<!---
+<!--
 ## [Rio Network (02/24)](https://audits.sherlock.xyz/contests/176) 🕵
 
 |Type|Issue|
@@ -44,7 +43,7 @@
 |M|[Rebalance DoS due to errors in allocation calculations](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/318)|
 -->
 
-<!---
+<!--
 ## [Opal (02/24)](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790) 🪐
 
 |Type|Issue|
@@ -70,7 +69,7 @@
 |L|[Signature verification in `FighterFarm.claimFighters` will always pass if `_delegatedAddress` is set to address zero](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-03-signature-verification-in-fighterfarmclaimfighters-will-always-pass-if-_delegatedaddress-is-set-to-address-zero)|
 |L|[Signature in `FighterFarm.claimFighters` can be replayed in other chains](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-04-signature-in-fighterfarmclaimfighters-can-be-replayed-in-other-chains)|
 
-<!---
+<!--
 ## [ZeroLend (01/24)](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407) 🪐
 
 |Type|Issue|
