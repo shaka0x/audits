@@ -1,8 +1,8 @@
 # 2024
-<!---- [Rio Network](#rio-network-0224-) 🕵 -->
-<!---- [Opal](#opal-0224-) 🪐 -->
+<!---- - [Rio Network](#rio-network-0224-) 🕵 -->
+<!---- - [Opal](#opal-0224-) 🪐 -->
 - [AI Arena](#ai-arena-0224-) 🐺
-- <!---- [ZeroLend](#zerolend-0124-) 🪐 -->
+<!---- - [ZeroLend](#zerolend-0124-) 🪐 -->
 - [Flat Money](#flat-money-0124-) 🕵
 - [Ubiquity](#ubiquity-0124-) 🕵
 
