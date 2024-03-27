@@ -1,4 +1,5 @@
 # 2024
+<!---- [Rio Network](#rio-network-0224-) 🕵 -->
 - [AI Arena](#ai-arena-0224-) 🐺
 - [Flat Money](#flat-money-0124-) 🕵
 - [Ubiquity](#ubiquity-0124-) 🕵
@@ -30,6 +31,17 @@
 |🦅|CodeHaws|
 |🪐|Cantina|
 
+<!---
+## [Rio Network (02/24)](https://audits.sherlock.xyz/contests/176) 🕵
+
+|Type|Issue|
+|:--:|--|
+|H|[Assets for withdrawal can be locked](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/315)|
+|M|[The operator utilization heap is not updated correctly when a operator is deactivated](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/316)|
+|M|[Restaking tokens are not priced correctly when there are withdrawals queued](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/314)|
+|M|[Rebalance DoS due to errors in allocation calculations](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/318)|
+-->
+
 ## [AI Arena (02/24)](https://code4rena.com/audits/2024-02-ai-arena) 🐺
 
 |Type|Issue|
@@ -49,10 +61,11 @@
 |L|[Signature in `FighterFarm.claimFighters` can be replayed in other chains](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-04-signature-in-fighterfarmclaimfighters-can-be-replayed-in-other-chains)|
 
 <!---
-## [ZeroLend (01/24)]([https://audits.sherlock.xyz/contests/138](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407)) 🪐
+## [ZeroLend (01/24)](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407) 🪐
 
 |Type|Issue|
 |:--:|--|
+|H|[]()|
 -->
 
 ## [Flat Money (01/24)](https://audits.sherlock.xyz/contests/132) 🕵
