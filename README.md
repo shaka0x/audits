@@ -1,4 +1,5 @@
 # 2024
+- [AI Arena](#ai-arena-0224-) 🐺
 - [Flat Money](#flat-money-0124-) 🕵
 - [Ubiquity](#ubiquity-0124-) 🕵
 
@@ -28,6 +29,24 @@
 |🕵|Sherlock|
 |🦅|CodeHaws|
 |🪐|Cantina|
+
+## [AI Arena (02/24)]([https://code4rena.com/audits/2024-02-ai-arena)) 🐺
+
+|Type|Issue|
+|:--:|--|
+|H|[Non-transferable game items can be transferred](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1915)|
+|H|[The `_ableToTransfer` check can be bypassed for fighter NFTs](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1918)|
+|H|[Minting fighters will fail after generation 0](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1919)|
+|H|[`FighterFarm.reRoll` does not check for fighter type](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1895)|
+|H|[Users can use mint passes for champions to mint dendroids](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1906)|
+|H|[Fighters can engage in battles with barely no downside risk](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1913)|
+|M|[DoS for `RankedBattle.updateBattleRecord`](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1901)|
+|M|[Users can mine dna values to generate fighters with specific properties](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1912)|
+|L|[Wrong calculation of probabilities for attributes](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/1903)|
+|L|[`MergingPool:getFighterPoints` reverts when called with `maxId` greater than 1](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-01-mergingpoolgetfighterpoints-reverts-when-called-with-maxid-greater-than-1)|
+|L|[The value of `RankedBattle.totalBattles` will be doubled](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-02-the-value-of-rankedbattletotalbattles-will-be-doubled)|
+|L|[Signature verification in `FighterFarm.claimFighters` will always pass if `_delegatedAddress` is set to address zero](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-03-signature-verification-in-fighterfarmclaimfighters-will-always-pass-if-_delegatedaddress-is-set-to-address-zero)|
+|L|[Signature in `FighterFarm.claimFighters` can be replayed in other chains](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-04-signature-in-fighterfarmclaimfighters-can-be-replayed-in-other-chains)|
 
 <!---
 ## [ZeroLend (01/24)]([https://audits.sherlock.xyz/contests/138](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407)) 🪐
