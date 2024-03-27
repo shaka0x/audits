@@ -30,7 +30,7 @@
 |🦅|CodeHaws|
 |🪐|Cantina|
 
-## [AI Arena (02/24)]([https://code4rena.com/audits/2024-02-ai-arena)) 🐺
+## [AI Arena (02/24)](https://code4rena.com/audits/2024-02-ai-arena) 🐺
 
 |Type|Issue|
 |:--:|--|
