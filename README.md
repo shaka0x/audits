@@ -1,4 +1,6 @@
 # 2024
+<!-- - [Axis Finance](#axis-finance-0324-) 🕵 -->
+<!-- - [Revert Lend](#revert-lend-0324-) 🐺 -->
 <!-- - [Rio Network](#rio-network-0224-) 🕵 -->
 <!-- - [Opal](#opal-0224-) 🪐 -->
 - [AI Arena](#ai-arena-0224-) 🐺 <!-- - [ZeroLend](#zerolend-0124-) 🪐 -->
@@ -31,6 +33,25 @@
 |🕵|Sherlock|
 |🦅|CodeHaws|
 |🪐|Cantina|
+
+<!--
+## [Axis Finance (03/24)](https://audits.sherlock.xyz/contests/206) 🕵
+
+|Type|Issue|
+|:--:|--|
+|M|[]()|
+-->
+
+<!--
+## [Revert Lend (03/24)](https://code4rena.com/audits/2024-03-revert-lend) 🐺
+
+|Type|Issue|
+|:--:|--|
+|M|[Daily limits are calculated incorrectly](https://github.com/code-423n4/2024-03-revert-lend-findings/issues/329)|
+|M|[`V3Vault` does not implement correctly `maxDeposit` and `maxMint`](https://github.com/code-423n4/2024-03-revert-lend-findings/issues/332)|
+|M|[Liquidations can be DoSed by repaying minimum amount](https://github.com/code-423n4/2024-03-revert-lend-findings/issues/333)|
+|M|[Loans can be liquidated in the block after their creation](https://github.com/code-423n4/2024-03-revert-lend-findings/issues/336)|
+-->
 
 <!--
 ## [Rio Network (02/24)](https://audits.sherlock.xyz/contests/176) 🕵
