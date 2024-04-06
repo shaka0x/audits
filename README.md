@@ -59,7 +59,7 @@
 |Type|Issue|
 |:--:|--|
 |H|[Assets for withdrawal can be locked](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/315)|
-|M|[The operator utilization heap is not updated correctly when a operator is deactivated](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/316)|
+|H|[The operator utilization heap is not updated correctly when a operator is deactivated](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/316)|
 |M|[Restaking tokens are not priced correctly when there are withdrawals queued](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/314)|
 |M|[Rebalance DoS due to errors in allocation calculations](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/318)|
 -->
