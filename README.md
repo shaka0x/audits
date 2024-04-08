@@ -3,7 +3,8 @@
 <!-- - [Revert Lend](#revert-lend-0324-) 🐺 -->
 <!-- - [Rio Network](#rio-network-0224-) 🕵 -->
 <!-- - [Opal](#opal-0224-) 🪐 -->
-- [AI Arena](#ai-arena-0224-) 🐺 <!-- - [ZeroLend](#zerolend-0124-) 🪐 -->
+- [AI Arena](#ai-arena-0224-) 🐺
+- [ZeroLend](#zerolend-0124-) 🪐
 - [Flat Money](#flat-money-0124-) 🕵
 - [Ubiquity](#ubiquity-0124-) 🕵
 
@@ -90,7 +91,7 @@
 |L|[Signature verification in `FighterFarm.claimFighters` will always pass if `_delegatedAddress` is set to address zero](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-03-signature-verification-in-fighterfarmclaimfighters-will-always-pass-if-_delegatedaddress-is-set-to-address-zero)|
 |L|[Signature in `FighterFarm.claimFighters` can be replayed in other chains](https://github.com/code-423n4/2024-02-ai-arena-findings/blob/main/data/shaka-Q.md#l-04-signature-in-fighterfarmclaimfighters-can-be-replayed-in-other-chains)|
 
-<!--
+
 ## [ZeroLend (01/24)](https://cantina.xyz/competitions/a83eaf73-9cbc-495f-8607-e55d4fdaf407) 🪐
 
 |Type|Issue|
@@ -99,7 +100,7 @@
 |H|[`ZLRewardsController` is not compatible with ZeroLend ATokens](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings/3959ec82-64f3-40d4-a15c-68928cde537e)|
 |H|[DOS for `StakingEmissions:distrubute()`](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings/1357ddec-d5cf-4a01-98fa-b9340c4cfb0d)|
 |L|[`ZeroLocker` signals support for ERC721Metadata incorrectly](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings/f7578b4a-47b4-4258-bfa5-a0d1d88508a5)|
--->
+
 
 ## [Flat Money (01/24)](https://audits.sherlock.xyz/contests/132) 🕵
 
