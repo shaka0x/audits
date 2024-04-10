@@ -40,7 +40,9 @@
 
 |Type|Issue|
 |:--:|--|
-|M|[]()|
+|H|[`Auctioneer.auction` stores always the `Routing` data for new auctions using `lotId` 0](https://github.com/sherlock-audit/2024-03-axis-finance-judging/issues/238)|
+|M|[Settlement of batch auction can exceed the gas limit](https://github.com/sherlock-audit/2024-03-axis-finance-judging/issues/237)|
+|M|[DoS for EMPAM `refundBid`](https://github.com/sherlock-audit/2024-03-axis-finance-judging/issues/235)|
 -->
 
 <!--
