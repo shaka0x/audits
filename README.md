@@ -1,7 +1,8 @@
 # 2024
 <!-- - [Axis Finance](#axis-finance-0324-) 🕵 -->
 - [Revert Lend](#revert-lend-0324-) 🐺
-- [Rio Network](#rio-network-0224-) 🕵 <!-- - [Opal](#opal-0224-) 🪐 -->
+- [Rio Network](#rio-network-0224-) 🕵
+- [Opal](#opal-0224-) 🪐
 - [AI Arena](#ai-arena-0224-) 🐺
 - [ZeroLend](#zerolend-0124-) 🪐
 - [Flat Money](#flat-money-0124-) 🕵
@@ -62,13 +63,11 @@
 |M|[Restaking tokens are not priced correctly when there are withdrawals queued](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/314)|
 |M|[Rebalance DoS due to errors in allocation calculations](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/318)|
 
-<!--
 ## [Opal (02/24)](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790) 🪐
 
 |Type|Issue|
 |:--:|--|
 |H|[Incorrect USD price returned for price feeds that are not normalized to 8 decimals](https://cantina.xyz/code/28425672-ce54-4c66-b188-c4d5650d6790/findings/f832074d-7942-4bcd-95ad-62ba5a59524a)|
--->
 
 ## [AI Arena (02/24)](https://code4rena.com/audits/2024-02-ai-arena) 🐺
 
