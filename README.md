@@ -1,5 +1,5 @@
 # 2024
-<!-- - [Axis Finance](#axis-finance-0324-) 🕵 -->
+- [Axis Finance](#axis-finance-0324-) 🕵
 - [Revert Lend](#revert-lend-0324-) 🐺
 - [Rio Network](#rio-network-0224-) 🕵
 - [Opal](#opal-0224-) 🪐
@@ -35,7 +35,6 @@
 |🦅|CodeHaws|
 |🪐|Cantina|
 
-<!--
 ## [Axis Finance (03/24)](https://audits.sherlock.xyz/contests/206) 🕵
 
 |Type|Issue|
@@ -43,7 +42,6 @@
 |H|[`Auctioneer.auction` stores always the `Routing` data for new auctions using `lotId` 0](https://github.com/sherlock-audit/2024-03-axis-finance-judging/issues/238)|
 |M|[Settlement of batch auction can exceed the gas limit](https://github.com/sherlock-audit/2024-03-axis-finance-judging/issues/237)|
 |M|[DoS for EMPAM `refundBid`](https://github.com/sherlock-audit/2024-03-axis-finance-judging/issues/235)|
--->
 
 ## [Revert Lend (03/24)](https://code4rena.com/audits/2024-03-revert-lend) 🐺
 
