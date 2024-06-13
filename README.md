@@ -34,6 +34,7 @@
 |🕵|Sherlock|
 |🦅|CodeHaws|
 |🪐|Cantina|
+<!-- |🅿️|Pashov Audit Group| -->
 
 ## [Axis Finance (03/24)](https://audits.sherlock.xyz/contests/206) 🕵
 
