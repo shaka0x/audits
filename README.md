@@ -10,7 +10,7 @@
 - [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review.md) 🅿️
 - [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review.md) 🅿️
 - [Ion](https://github.com/pashov/audits/blob/master/team/md/IonProtocol-security-review.md) 🅿️
-- [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/md/SharwaFinance-security-review.m) 🅿️
+- [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/md/SharwaFinance-security-review.md) 🅿️
 - [Serious Market](https://github.com/pashov/audits/blob/master/team/md/Serious-security-review.md) 🅿️
 - [Axis Finance](#axis-finance-0324-) 🕵
 - [Revert Lend](#revert-lend-0324-) 🐺
