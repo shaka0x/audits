@@ -1,4 +1,17 @@
+|||
+|-|-|
+|🐺|Code4rena|
+|🕵|Sherlock|
+|🦅|CodeHaws|
+|🪐|Cantina|
+|🅿️|Pashov Audit Group|
+
 # 2024
+- [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review.md) 🅿️
+- [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review.md) 🅿️
+- [Ion](https://github.com/pashov/audits/blob/master/team/md/IonProtocol-security-review.md) 🅿️
+- [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/md/SharwaFinance-security-review.m) 🅿️
+- [Serious Market](https://github.com/pashov/audits/blob/master/team/md/Serious-security-review.md) 🅿️
 - [Axis Finance](#axis-finance-0324-) 🕵
 - [Revert Lend](#revert-lend-0324-) 🐺
 - [Rio Network](#rio-network-0224-) 🕵
@@ -26,15 +39,6 @@
 - [Y2K](#y2k-0323-) 🕵
 - [Taurus](#taurus-0323-) 🕵
 - [Surge](#surge-0223-) 🕵
-
-
-|||
-|-|-|
-|🐺|Code4rena|
-|🕵|Sherlock|
-|🦅|CodeHaws|
-|🪐|Cantina|
-<!-- |🅿️|Pashov Audit Group| -->
 
 ## [Axis Finance (03/24)](https://audits.sherlock.xyz/contests/206) 🕵
 
