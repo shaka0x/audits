@@ -12,6 +12,7 @@
 - [Ion](https://github.com/pashov/audits/blob/master/team/md/IonProtocol-security-review.md) 🅿️
 - [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/md/SharwaFinance-security-review.md) 🅿️
 - [Serious Market](https://github.com/pashov/audits/blob/master/team/md/Serious-security-review.md) 🅿️
+- [Euler](#euler-0524-) 🪐
 - [Axis Finance](#axis-finance-0324-) 🕵
 - [Revert Lend](#revert-lend-0324-) 🐺
 - [Rio Network](#rio-network-0224-) 🕵
@@ -39,6 +40,14 @@
 - [Y2K](#y2k-0323-) 🕵
 - [Taurus](#taurus-0323-) 🕵
 - [Surge](#surge-0223-) 🕵
+
+## [Euler (05/24)](https://cantina.xyz/competitions/41306bb9-2bb8-4da6-95c3-66b85e11639f) 🪐
+
+|Type|Issue|
+|:--:|--|
+|L|[Cash amount can overflow on repayment](https://cantina.xyz/code/41306bb9-2bb8-4da6-95c3-66b85e11639f/findings/161)|
+|L|[`repayWithShares` does not allow to repay partial debt](https://cantina.xyz/code/41306bb9-2bb8-4da6-95c3-66b85e11639f/findings/159)|
+|L|[Using a nested vault as a collateral in the underlying vault will revert on the `calculateLiquidity` function due to reentrancy](https://cantina.xyz/code/41306bb9-2bb8-4da6-95c3-66b85e11639f/findings/157)|
 
 ## [Axis Finance (03/24)](https://audits.sherlock.xyz/contests/206) 🕵
 
