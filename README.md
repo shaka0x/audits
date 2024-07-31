@@ -11,6 +11,7 @@
 - [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review.md) 🅿️
 - [Ion](https://github.com/pashov/audits/blob/master/team/md/IonProtocol-security-review.md) 🅿️
 - [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/md/SharwaFinance-security-review.md) 🅿️
+- [HoneyJar](https://github.com/pashov/audits/blob/master/team/md/HoneyJar-security-review.md) 🅿️
 - [Serious Market](https://github.com/pashov/audits/blob/master/team/md/Serious-security-review.md) 🅿️
 - [Euler](#euler-0524-) 🪐
 - [Axis Finance](#axis-finance-0324-) 🕵
