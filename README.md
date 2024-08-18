@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2024
+- [Nabla](https://github.com/pashov/audits/blob/master/team/md/Nabla-security-review.md) 🅿️
 - [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review.md) 🅿️
 - [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review.md) 🅿️
 - [Ion](https://github.com/pashov/audits/blob/master/team/md/IonProtocol-security-review.md) 🅿️
