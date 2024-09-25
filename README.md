@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2024
+- [Tadle](#tadle-0824-) 🦅
 - [TraitForge](#traitforge-0724-) 🐺
 - [Nabla](https://github.com/pashov/audits/blob/master/team/md/Nabla-security-review.md) 🅿️
 - [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review.md) 🅿️
@@ -43,6 +44,12 @@
 - [Y2K](#y2k-0323-) 🕵
 - [Taurus](#taurus-0323-) 🕵
 - [Surge](#surge-0223-) 🕵
+
+## [Tadle (08/24)](https://codehawks.cyfrin.io/c/2024-08-tadle) 🦅
+
+|Type|Issue|
+|:--:|--|
+|H|[Referral info is set to the wrong address](https://codehawks.cyfrin.io/c/2024-08-tadle/s/102)|
 
 ## [TraitForge (07/24)](https://code4rena.com/audits/2024-07-traitforge) 🐺
 
