@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2024
+- [TraitForge](#traitforge-0724-) 🐺
 - [Nabla](https://github.com/pashov/audits/blob/master/team/md/Nabla-security-review.md) 🅿️
 - [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review.md) 🅿️
 - [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review.md) 🅿️
@@ -42,6 +43,17 @@
 - [Y2K](#y2k-0323-) 🕵
 - [Taurus](#taurus-0323-) 🕵
 - [Surge](#surge-0223-) 🕵
+
+## [TraitForge (07/24)](https://code4rena.com/audits/2024-07-traitforge) 🐺
+
+|Type|Issue|
+|:--:|--|
+|H|[After 10,000 minted NFTs `mintWithBudget` will stop working](https://github.com/code-423n4/2024-07-traitforge-findings/issues/54)|
+|H|[Tokens per generation limit can be surpassed](https://github.com/code-423n4/2024-07-traitforge-findings/issues/56)|
+|H|[Maximum number of generations can be surpassed](https://github.com/code-423n4/2024-07-traitforge-findings/issues/57)|
+|M|[Wrong check for Golden God entropy value](https://github.com/code-423n4/2024-07-traitforge-findings/issues/53)|
+|M|[Forge potential allows forging different number of tokens depending on gender](https://github.com/code-423n4/2024-07-traitforge-findings/issues/49)|
+|M|[Amount claimed on `nuke` can be different than expected when `finalNukeFactor > nukeFactorMaxParam`](https://github.com/code-423n4/2024-07-traitforge-findings/issues/48)|
 
 ## [Euler (05/24)](https://cantina.xyz/competitions/41306bb9-2bb8-4da6-95c3-66b85e11639f) 🪐
 
