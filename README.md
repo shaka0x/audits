@@ -11,7 +11,7 @@
 - [TraitForge](#traitforge-0724-) 🐺
 - [Nabla](https://github.com/pashov/audits/blob/master/team/md/Nabla-security-review.md) 🅿️
 - [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review.md) 🅿️
-- [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review-june.md) 🅿️
+- [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review-June.md) 🅿️
 - [Ion](https://github.com/pashov/audits/blob/master/team/md/IonProtocol-security-review.md) 🅿️
 - [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/md/SharwaFinance-security-review.md) 🅿️
 - [HoneyJar](https://github.com/pashov/audits/blob/master/team/md/HoneyJar-security-review.md) 🅿️
