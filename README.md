@@ -8,12 +8,13 @@
 
 # 2024
 - [Aegis](https://github.com/pashov/audits/blob/master/team/md/AegisVault-security-review.md) 🅿️
-- [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-August.md) 🅿️
+- [Reya Network (3)](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-August.md) 🅿️
 - [EndlessClouds](https://github.com/pashov/audits/blob/master/team/md/EndlessClouds-security-review.md) 🅿️
 - [Tadle](#tadle-0824-) 🦅
 - [TraitForge](#traitforge-0724-) 🐺
 - [Nabla](https://github.com/pashov/audits/blob/master/team/md/Nabla-security-review.md) 🅿️
-- [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-July.md) 🅿️
+- [Reya Network (2)](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-July.md) 🅿️
+- [Reya Network (1)](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-June2.md) 🅿️
 - [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review-June.md) 🅿️
 - [Ion](https://github.com/pashov/audits/blob/master/team/md/IonProtocol-security-review.md) 🅿️
 - [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/md/SharwaFinance-security-review.md) 🅿️
