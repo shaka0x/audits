@@ -7,7 +7,9 @@
 |🅿️|Pashov Audit Group|
 
 # 2024
+- [Aegis](https://github.com/pashov/audits/blob/master/team/md/AegisVault-security-review.md) 🅿️
 - [Reya Network](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-August.md) 🅿️
+- [EndlessClouds](https://github.com/pashov/audits/blob/master/team/md/EndlessClouds-security-review.md) 🅿️
 - [Tadle](#tadle-0824-) 🦅
 - [TraitForge](#traitforge-0724-) 🐺
 - [Nabla](https://github.com/pashov/audits/blob/master/team/md/Nabla-security-review.md) 🅿️
