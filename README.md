@@ -15,6 +15,7 @@
 - [TraitForge](#traitforge-0724-) 🐺
 - [Nabla](https://github.com/pashov/audits/blob/master/team/md/Nabla-security-review.md) 🅿️
 - [Reya Network (2)](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-July.md) 🅿️
+- [g8keep](https://github.com/pashov/audits/blob/master/team/md/g8keep-security-review.md) 🅿️
 - [Reya Network (1)](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-June2.md) 🅿️
 - [Karak](https://github.com/pashov/audits/blob/master/team/md/Karak-security-review-June.md) 🅿️
 - [Ion](https://github.com/pashov/audits/blob/master/team/md/IonProtocol-security-review.md) 🅿️
