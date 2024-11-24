@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2024
+- [Uniswap Periphery](https://github.com/pashov/audits/blob/master/team/md/Uniswap-security-review-October.md) 🅿️
 - [Bunni](https://github.com/pashov/audits/blob/master/team/md/Bunni-security-review-August.md) 🅿️
 - [Aegis](https://github.com/pashov/audits/blob/master/team/md/AegisVault-security-review.md) 🅿️
 - [Reya Network (3)](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-August.md) 🅿️
