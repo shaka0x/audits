@@ -7,6 +7,8 @@
 |🅿️|Pashov Audit Group|
 
 # 2024
+- [ULTI](https://github.com/pashov/audits/blob/master/team/md/ULTI-security-review-November.md) 🅿️
+- [Pepe Unchained](https://github.com/pashov/audits/blob/master/team/md/PepeUnchained-security-review-November.md) 🅿️
 - [Uniswap Periphery](https://github.com/pashov/audits/blob/master/team/md/Uniswap-security-review-October.md) 🅿️
 - [Bunni](https://github.com/pashov/audits/blob/master/team/md/Bunni-security-review-August.md) 🅿️
 - [Aegis](https://github.com/pashov/audits/blob/master/team/md/AegisVault-security-review.md) 🅿️
