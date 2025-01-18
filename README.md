@@ -12,6 +12,7 @@
 - [Pepe Unchained](https://github.com/pashov/audits/blob/master/team/md/PepeUnchained-security-review-November.md) 🅿️
 - [Arcadia](https://github.com/pashov/audits/blob/master/team/md/Arcadia-security-review-October.md) 🅿️
 - [Uniswap Periphery](https://github.com/pashov/audits/blob/master/team/md/Uniswap-security-review-October.md) 🅿️
+- [Primodium](https://github.com/pashov/audits/blob/master/team/md/Primodium-security-review_2024-10-02.md) 🅿️
 - [Bunni](https://github.com/pashov/audits/blob/master/team/md/Bunni-security-review-August.md) 🅿️
 - [Aegis](https://github.com/pashov/audits/blob/master/team/md/AegisVault-security-review.md) 🅿️
 - [Reya Network (3)](https://github.com/pashov/audits/blob/master/team/md/ReyaNetwork-security-review-August.md) 🅿️
