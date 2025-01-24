@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2024
+- [Fundraiser](https://github.com/pashov/audits/blob/master/team/md/Fundraiser-security-review_2024-11-30.md) 🅿️
 - [SuperSale](https://github.com/pashov/audits/blob/master/team/md/SuperSale-security-review-November.md) 🅿️
 - [ULTI](https://github.com/pashov/audits/blob/master/team/md/ULTI-security-review-November.md) 🅿️
 - [Pepe Unchained](https://github.com/pashov/audits/blob/master/team/md/PepeUnchained-security-review-November.md) 🅿️
