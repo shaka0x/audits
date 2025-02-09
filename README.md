@@ -6,7 +6,16 @@
 |🪐|Cantina|
 |🅿️|Pashov Audit Group|
 
+<!--
+# 2025
+- [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️
+- [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️
+- [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️
+- [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️️
+-->
+
 # 2024
+- [Ouroboros](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md) 🅿️
 - [Fundraiser](https://github.com/pashov/audits/blob/master/team/md/Fundraiser-security-review_2024-11-30.md) 🅿️
 - [SuperSale](https://github.com/pashov/audits/blob/master/team/md/SuperSale-security-review-November.md) 🅿️
 - [ULTI](https://github.com/pashov/audits/blob/master/team/md/ULTI-security-review-November.md) 🅿️
