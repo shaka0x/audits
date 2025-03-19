@@ -6,9 +6,9 @@
 |🪐|Cantina|
 |🅿️|Pashov Audit Group|
 
-<!--
 # 2025
-- [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️
+- [NFTMirror](https://github.com/pashov/audits/blob/master/team/md/NFTMirror-security-review_2024-12-30.md) 🅿️
+<!--
 - [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️
 - [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️
 - [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️️
