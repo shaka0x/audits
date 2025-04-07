@@ -7,12 +7,9 @@
 |🅿️|Pashov Audit Group|
 
 # 2025
+- [Burve](https://github.com/pashov/audits/blob/master/team/md/Burve-security-review_2025-01-29.md) 🅿️
+- [Roots](https://github.com/pashov/audits/blob/master/team/md/Roots-security-review_2025-02-09.md) 🅿️
 - [NFTMirror](https://github.com/pashov/audits/blob/master/team/md/NFTMirror-security-review_2024-12-30.md) 🅿️
-<!--
-- [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️
-- [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️
-- [](https://github.com/pashov/audits/blob/master/team/md/) 🅿️️
--->
 
 # 2024
 - [Ouroboros](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md) 🅿️
