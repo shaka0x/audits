@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2025
+- [Coinflip](https://github.com/pashov/audits/blob/master/team/md/Coinflip-security-review_2025-02-05.md) 🅿️
 - [Burve](https://github.com/pashov/audits/blob/master/team/md/Burve-security-review_2025-01-29.md) 🅿️
 - [Roots](https://github.com/pashov/audits/blob/master/team/md/Roots-security-review_2025-02-09.md) 🅿️
 - [NFTMirror](https://github.com/pashov/audits/blob/master/team/md/NFTMirror-security-review_2024-12-30.md) 🅿️
