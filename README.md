@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2025
+- [Loop Vaults](https://github.com/pashov/audits/blob/master/team/md/LoopVaults-security-review_2025-04-30.md) 🅿️
 - [KittenSwap](https://github.com/pashov/audits/blob/master/team/md/KittenSwap-security-review_2025-06-12.md) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-04-15.md) 🅿️
 - [Coinflip](https://github.com/pashov/audits/blob/master/team/md/Coinflip-security-review_2025-02-05.md) 🅿️
