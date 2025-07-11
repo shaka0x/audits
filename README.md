@@ -13,6 +13,7 @@
 - [Coinflip](https://github.com/pashov/audits/blob/master/team/md/Coinflip-security-review_2025-02-05.md) 🅿️
 - [Burve](https://github.com/pashov/audits/blob/master/team/md/Burve-security-review_2025-01-29.md) 🅿️
 - [Roots](https://github.com/pashov/audits/blob/master/team/md/Roots-security-review_2025-02-09.md) 🅿️
+- Lens V3: [Core](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensCore-security-review_2025-01-06.pdf), [Extensions](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensExtensions-security-review_2025-01-06.pdf), [Actions](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensActions-security-review_2025-01-06.pdf) & [Rules](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensRules-security-review_2025-01-06.pdf) 🅿️
 - [NFTMirror](https://github.com/pashov/audits/blob/master/team/md/NFTMirror-security-review_2024-12-30.md) 🅿️
 
 # 2024
