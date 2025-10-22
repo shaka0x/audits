@@ -8,6 +8,7 @@
 
 # 2025
 - [Funnel](https://github.com/pashov/audits/blob/master/team/md/Funnel-security-review_2025-08-27.md) 🅿️
+- [Saffron](https://github.com/pashov/audits/blob/master/team/md/Saffron-security-review_2025-07-31.md) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-07-25.md) 🅿️
 - [Loop Vaults](https://github.com/pashov/audits/blob/master/team/md/LoopVaults-security-review_2025-04-30.md) 🅿️
 - [KittenSwap](https://github.com/pashov/audits/blob/master/team/md/KittenSwap-security-review_2025-06-12.md) 🅿️
