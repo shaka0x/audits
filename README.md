@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2025
+- [stHYPE](https://github.com/pashov/audits/blob/master/team/md/stHYPE-security-review_2025-10-13.md) 🅿️
 - [Funnel](https://github.com/pashov/audits/blob/master/team/md/Funnel-security-review_2025-08-27.md) 🅿️
 - [Saffron](https://github.com/pashov/audits/blob/master/team/md/Saffron-security-review_2025-07-31.md) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-07-25.md) 🅿️
@@ -14,6 +15,7 @@
 - [KittenSwap](https://github.com/pashov/audits/blob/master/team/md/KittenSwap-security-review_2025-06-12.md) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-04-15.md) 🅿️
 - [Coinflip](https://github.com/pashov/audits/blob/master/team/md/Coinflip-security-review_2025-02-05.md) 🅿️
+- [Biconomy](https://github.com/pashov/audits/blob/master/team/md/BiconomyComposability-security-review_2025-03-22.md) 🅿️
 - [Burve](https://github.com/pashov/audits/blob/master/team/md/Burve-security-review_2025-01-29.md) 🅿️
 - [Roots](https://github.com/pashov/audits/blob/master/team/md/Roots-security-review_2025-02-09.md) 🅿️
 - Lens V3: [Core](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensCore-security-review_2025-01-06.pdf), [Extensions](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensExtensions-security-review_2025-01-06.pdf), [Actions](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensActions-security-review_2025-01-06.pdf) & [Rules](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensRules-security-review_2025-01-06.pdf) 🅿️
