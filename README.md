@@ -17,6 +17,7 @@
 - [Loop Vaults](https://github.com/pashov/audits/blob/master/team/md/LoopVaults-security-review_2025-04-30.md) 🅿️
 - [Ouroboros](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2025-06-30.md) 🅿️
 - [KittenSwap](https://github.com/pashov/audits/blob/master/team/md/KittenSwap-security-review_2025-06-12.md) 🅿️
+- [Agora Stable Swap](https://github.com/pashov/audits/blob/master/team/md/AgoraStableSwap-security-review_2025-06-05.md) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-04-15.md) 🅿️
 - [Coinflip](https://github.com/pashov/audits/blob/master/team/md/Coinflip-security-review_2025-02-05.md) 🅿️
 - [Biconomy](https://github.com/pashov/audits/blob/master/team/md/BiconomyComposability-security-review_2025-03-22.md) 🅿️
