@@ -7,11 +7,13 @@
 |🅿️|Pashov Audit Group|
 
 # 2025
+<!-- - []() 🅿️ -->
 - [stHYPE](https://github.com/pashov/audits/blob/master/team/md/stHYPE-security-review_2025-10-13.md) 🅿️
 - [Funnel](https://github.com/pashov/audits/blob/master/team/md/Funnel-security-review_2025-08-27.md) 🅿️
 - [RWf(x)](https://github.com/pashov/audits/blob/master/team/md/RWf(x)-security-review_2025-08-20.md) 🅿️
 - [Saffron](https://github.com/pashov/audits/blob/master/team/md/Saffron-security-review_2025-07-31.md) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-07-25.md) 🅿️
+- [Stake DAO](https://github.com/pashov/audits/blob/master/team/md/StakeDAO-security-review_2025-07-21.md) 🅿️
 - [Loop Vaults](https://github.com/pashov/audits/blob/master/team/md/LoopVaults-security-review_2025-04-30.md) 🅿️
 - [KittenSwap](https://github.com/pashov/audits/blob/master/team/md/KittenSwap-security-review_2025-06-12.md) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-04-15.md) 🅿️
