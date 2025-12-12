@@ -8,6 +8,7 @@
 
 # 2025
 <!-- - []() 🅿️ -->
+- [Aave v3.6](https://github.com/pashov/audits/blob/master/team/md/Aave-security-review_2025-11-29.md) 🅿️
 - [stHYPE](https://github.com/pashov/audits/blob/master/team/md/stHYPE-security-review_2025-10-13.md) 🅿️
 - [Funnel](https://github.com/pashov/audits/blob/master/team/md/Funnel-security-review_2025-08-27.md) 🅿️
 - [RWf(x)](https://github.com/pashov/audits/blob/master/team/md/RWf(x)-security-review_2025-08-20.md) 🅿️
