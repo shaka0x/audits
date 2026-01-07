@@ -6,8 +6,11 @@
 |🪐|Cantina|
 |🅿️|Pashov Audit Group|
 
-# 2025
+# 2026
 <!-- - []() 🅿️ -->
+- [Trove](https://github.com/pashov/audits/blob/master/team/md/Trove-security-review_2026-01-04.md) 🅿️
+
+# 2025
 - [Aave v3.6](https://github.com/pashov/audits/blob/master/team/md/Aave-security-review_2025-11-29.md) 🅿️
 - [stHYPE](https://github.com/pashov/audits/blob/master/team/md/stHYPE-security-review_2025-10-13.md) 🅿️
 - [Funnel](https://github.com/pashov/audits/blob/master/team/md/Funnel-security-review_2025-08-27.md) 🅿️
