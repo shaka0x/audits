@@ -8,6 +8,7 @@
 
 # 2026
 <!-- - []() 🅿️ -->
+- [Shred](https://github.com/pashov/audits/blob/master/team/md/Shred-security-review_2026-01-31.md) 🅿️
 - [Trove](https://github.com/pashov/audits/blob/master/team/md/Trove-security-review_2026-01-04.md) 🅿️
 
 # 2025
