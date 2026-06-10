@@ -58,9 +58,12 @@
 - [NFTMirror](https://github.com/pashov/audits/blob/master/team/md/NFTMirror-security-review_2024-12-30.md) 🅿️
 
 # 2024
+- DEX (undisclosed) 🅿️
 - [Ouroboros](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md) 🅿️
+- DEX (undisclosed) 🅿️
 - [Fundraiser](https://github.com/pashov/audits/blob/master/team/md/Fundraiser-security-review_2024-11-30.md) 🅿️
 - [SuperSale](https://github.com/pashov/audits/blob/master/team/md/SuperSale-security-review-November.md) 🅿️
+- DEX (undisclosed) 🅿️
 - [ULTI](https://github.com/pashov/audits/blob/master/team/md/ULTI-security-review-November.md) 🅿️
 - [Pepe Unchained](https://github.com/pashov/audits/blob/master/team/md/PepeUnchained-security-review-November.md) 🅿️
 - [Arcadia](https://github.com/pashov/audits/blob/master/team/md/Arcadia-security-review-October.md) 🅿️
@@ -81,6 +84,7 @@
 - [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/md/SharwaFinance-security-review.md) 🅿️
 - [HoneyJar](https://github.com/pashov/audits/blob/master/team/md/HoneyJar-security-review.md) 🅿️
 - [Serious Market](https://github.com/pashov/audits/blob/master/team/md/Serious-security-review.md) 🅿️
+- NFT market (undisclosed) 🕵
 - [Euler](#euler-0524-) 🪐
 - [Axis Finance](#axis-finance-0324-) 🕵
 - [Revert Lend](#revert-lend-0324-) 🐺
