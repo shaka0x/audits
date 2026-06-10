@@ -20,22 +20,40 @@
 - [Trove](https://github.com/pashov/audits/blob/master/team/md/Trove-security-review_2026-01-04.md) 🅿️
 
 # 2025
+- Stablecoin (undisclosed) 🅿️
+- Perpetuals market (undisclosed) 🅿️
+- Lending market (undisclosed) 🅿️
 - [Aave v3.6](https://github.com/pashov/audits/blob/master/team/md/Aave-security-review_2025-11-29.md) 🅿️
+- Liquid staking protocol (undisclosed) 🅿️
+- Lending market (undisclosed) 🅿️
+- Lending market (undisclosed) 🅿️
+- Airdrop (undisclosed) 🅿️
 - [stHYPE](https://github.com/pashov/audits/blob/master/team/md/stHYPE-security-review_2025-10-13.md) 🅿️
+- DEX (undisclosed) 🅿️
+- Lending market (undisclosed) 🅿️
+- Lending market (undisclosed) 🅿️
+- RWA (undisclosed) 🅿️
 - [Funnel](https://github.com/pashov/audits/blob/master/team/md/Funnel-security-review_2025-08-27.md) 🅿️
 - [RWf(x)](https://github.com/pashov/audits/blob/master/team/md/RWf(x)-security-review_2025-08-20.md) 🅿️
+- Fundraise (undisclosed) 🅿️
 - [Saffron](https://github.com/pashov/audits/blob/master/team/md/Saffron-security-review_2025-07-31.md) 🅿️
+- Staking protocol (undisclosed) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-07-25.md) 🅿️
 - [Stake DAO](https://github.com/pashov/audits/blob/master/team/md/StakeDAO-security-review_2025-07-21.md) 🅿️
 - [Loop Vaults](https://github.com/pashov/audits/blob/master/team/md/LoopVaults-security-review_2025-04-30.md) 🅿️
 - [Ouroboros](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2025-06-30.md) 🅿️
 - [KittenSwap](https://github.com/pashov/audits/blob/master/team/md/KittenSwap-security-review_2025-06-12.md) 🅿️
 - [Agora Stable Swap](https://github.com/pashov/audits/blob/master/team/md/AgoraStableSwap-security-review_2025-06-05.md) 🅿️
+- Lending market (undisclosed) 🅿️
+- Lending market (undisclosed) 🅿️
+- RWA (undisclosed) 🅿️
+- Game (undisclosed) 🅿️
 - [Resolv](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review_2025-04-15.md) 🅿️
-- [Coinflip](https://github.com/pashov/audits/blob/master/team/md/Coinflip-security-review_2025-02-05.md) 🅿️
+- Bridge (undisclosed) 🅿️
 - [Biconomy](https://github.com/pashov/audits/blob/master/team/md/BiconomyComposability-security-review_2025-03-22.md) 🅿️
 - [Burve](https://github.com/pashov/audits/blob/master/team/md/Burve-security-review_2025-01-29.md) 🅿️
 - [Roots](https://github.com/pashov/audits/blob/master/team/md/Roots-security-review_2025-02-09.md) 🅿️
+- [Coinflip](https://github.com/pashov/audits/blob/master/team/md/Coinflip-security-review_2025-02-05.md) 🅿️
 - Lens V3: [Core](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensCore-security-review_2025-01-06.pdf), [Extensions](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensExtensions-security-review_2025-01-06.pdf), [Actions](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensActions-security-review_2025-01-06.pdf) & [Rules](https://github.com/lens-protocol/lens-v3/blob/development/audits/LensRules-security-review_2025-01-06.pdf) 🅿️
 - [NFTMirror](https://github.com/pashov/audits/blob/master/team/md/NFTMirror-security-review_2024-12-30.md) 🅿️
 
