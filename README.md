@@ -8,7 +8,15 @@
 
 # 2026
 <!-- - []() 🅿️ -->
+- Prediction market (undisclosed) 🅿️
+- Lending protocol (undisclosed) 🅿️
+- DEX (undisclosed) 🅿️
+- Lending protocol (undisclosed) 🅿️
+- Lending protocol (undisclosed) 🅿️
+- Perpetuals market (undisclosed) 🅿️
+- Perpetuals market (undisclosed) 🅿️
 - [Shred](https://github.com/pashov/audits/blob/master/team/md/Shred-security-review_2026-01-31.md) 🅿️
+- Staking protocol (undisclosed) 🅿️
 - [Trove](https://github.com/pashov/audits/blob/master/team/md/Trove-security-review_2026-01-04.md) 🅿️
 
 # 2025
