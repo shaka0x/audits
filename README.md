@@ -8,6 +8,7 @@
 
 # 2026
 <!-- - []() 🅿️ -->
+- Game (undisclosed) 🅿️
 - Prediction market (undisclosed) 🅿️
 - Lending protocol (undisclosed) 🅿️
 - DEX (undisclosed) 🅿️
