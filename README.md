@@ -8,6 +8,7 @@
 
 # 2026
 <!-- - []() 🅿️ -->
+- Perpetuals market (undisclosed) 🅿️
 - Game (undisclosed) 🅿️
 - Prediction market (undisclosed) 🅿️
 - Lending protocol (undisclosed) 🅿️
