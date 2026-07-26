@@ -8,6 +8,7 @@
 
 # 2026
 <!-- - []() 🅿️ -->
+- Smart contract account (undisclosed) 🅿️
 - Perpetuals market (undisclosed) 🅿️
 - Game (undisclosed) 🅿️
 - Prediction market (undisclosed) 🅿️
