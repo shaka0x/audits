@@ -8,6 +8,7 @@
 
 # 2026
 <!-- - []() 🅿️ -->
+- Bridge (undisclosed) 🅿️
 - Smart account (undisclosed) 🅿️
 - Smart account (undisclosed) 🅿️
 - Perpetuals market (undisclosed) 🅿️
