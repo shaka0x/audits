@@ -8,6 +8,7 @@
 
 # 2026
 <!-- - []() 🅿️ -->
+- Stablecoin (undisclosed) 🅿️
 - Timelock (undisclosed) 🅿️
 - Bridge (undisclosed) 🅿️
 - Smart account (undisclosed) 🅿️
