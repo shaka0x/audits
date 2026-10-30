@@ -7,7 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2026
-<!-- - []() 🅿️ -->
+- Perpetuals market (undisclosed) 🅿️
 - Stablecoin (undisclosed) 🅿️
 - Timelock (undisclosed) 🅿️
 - Bridge (undisclosed) 🅿️
