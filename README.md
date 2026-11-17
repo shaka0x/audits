@@ -7,6 +7,7 @@
 |🅿️|Pashov Audit Group|
 
 # 2026
+- Payments (undisclosed) 🅿️
 - Perpetuals market (undisclosed) 🅿️
 - Stablecoin (undisclosed) 🅿️
 - Timelock (undisclosed) 🅿️
